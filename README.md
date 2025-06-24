@@ -1,5 +1,5 @@
 # Discord Bot Activity
-
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/1zzx8.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 - Author: Emin hadziabdic
 
 ## How to use:
